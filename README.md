@@ -13,3 +13,5 @@
 
 * Padding e Margin
 Ajustes no `header`, `footer` e `.conteudo`.
+
+* Centralizar margens
