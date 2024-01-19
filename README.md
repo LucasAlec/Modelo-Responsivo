@@ -15,3 +15,6 @@
 Ajustes no `header`, `footer` e `.conteudo`.
 
 * Centralizar margens
+
+* Adaptar imagens
+Criando a classe `imagens-site` que configura todas as imagens em conjunto.
