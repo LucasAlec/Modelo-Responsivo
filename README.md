@@ -10,3 +10,6 @@
 * Configurar tamanhos e medidas
 
 * Ajustes de fontes responsivas, footer e section
+
+* Padding e Margin
+Ajustes no `header`, `footer` e `.conteudo`.
