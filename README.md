@@ -18,3 +18,11 @@ Ajustes no `header`, `footer` e `.conteudo`.
 
 * Adaptar imagens
 Criando a classe `imagens-site` que configura todas as imagens em conjunto.
+
+* Fixar o topo do site configurando `width = 100%` e `position= fixed` em `header`
+
+Criou-se uma nova configuração `conteudo-topo`
+
+* Caixa Interativa
+
+* Estrutura de Grid (Grade de conteúdo)
