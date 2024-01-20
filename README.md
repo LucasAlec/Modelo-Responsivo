@@ -26,3 +26,4 @@ Criou-se uma nova configuração `conteudo-topo`
 * Caixa Interativa
 
 * Estrutura de Grid (Grade de conteúdo)
+Cria-se uma section com a classe `conteudo` e id `grid-conteudo`, div com classe `grid` , e 6 div, nesta ordem.
