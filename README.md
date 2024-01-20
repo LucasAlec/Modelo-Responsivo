@@ -33,3 +33,14 @@ A coluna se adapta conforme o tamanho da tela e se fragmentando.
 
 * Formulário e Inputs
 Criou-se um formulário (sem utilizar banco de dados, por enquanto)
+
+* CSS para Inputs
+Adaptando o `input` através do `style` e também para `#mensagem` que por ser um `id` deve-se utilizar `#`
+
+* Botões do formulário
+O botão será apenas simulado, pois precisamos de um servidor e banco de dados, no momento o foco será apenas a parte front end.
+
+* Links de navegação `nav`
+
+* Efeitos em links
+Config na seção `a` e `a:hover` dentro de `style`
