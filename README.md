@@ -30,3 +30,6 @@ Cria-se uma section com a classe `conteudo` e id `grid-conteudo`, div com classe
 
 * Grid responsiva utilizando `grid-template-columns: repeat(auto-fill, minmax(300px,1fr));`
 A coluna se adapta conforme o tamanho da tela e se fragmentando.
+
+* Formulário e Inputs
+Criou-se um formulário (sem utilizar banco de dados, por enquanto)
