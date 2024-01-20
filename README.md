@@ -27,3 +27,6 @@ Criou-se uma nova configuração `conteudo-topo`
 
 * Estrutura de Grid (Grade de conteúdo)
 Cria-se uma section com a classe `conteudo` e id `grid-conteudo`, div com classe `grid` , e 6 div, nesta ordem.
+
+* Grid responsiva utilizando `grid-template-columns: repeat(auto-fill, minmax(300px,1fr));`
+A coluna se adapta conforme o tamanho da tela e se fragmentando.
